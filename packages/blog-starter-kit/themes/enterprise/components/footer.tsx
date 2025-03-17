@@ -54,7 +54,6 @@ export const Footer = () => {
 							</ul>
 						</div>
 					</div>
-					</div>
 				</div>
 			</Container>
 		</footer>
