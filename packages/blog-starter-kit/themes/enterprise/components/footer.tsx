@@ -33,7 +33,7 @@ export const Footer = () => {
 							<ul className="flex flex-col gap-1 text-slate-700 dark:text-neutral-300">
 								<li>
 									<a href="https://www.linkedin.com/in/roy9495" className="hover:underline">
-									    LinkedIn
+										LinkedIn
 									</a>
 								</li>
 								<li>
@@ -53,7 +53,7 @@ export const Footer = () => {
 								</li>
 							</ul>
 						</div>
-						</p>
+					</div>
 					</div>
 				</div>
 			</Container>
